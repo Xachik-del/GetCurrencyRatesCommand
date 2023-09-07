@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий на свой локальный компьютер:
 
    ```bash
-   git clone https://github.com/yourusername/currency-exchange.git
+   git clone https://github.com/Xachik-del/GetCurrencyRatesCommand.git
    ```
    
 2. Перейдите в каталог проекта:
